@@ -1,3 +1,4 @@
+#Credit for design to https://www.arshakir.com/project/freebie-gpt-3-landing-page
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
